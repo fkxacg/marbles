@@ -1,2 +1,2 @@
 # marbles
-the first game by java
+14年初时第一次尝试的人机弹球对战游戏，保存于此。
